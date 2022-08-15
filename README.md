@@ -184,7 +184,11 @@ La inductancia del inductor 1 es menor en comparación al inductor 2 que tiene e
 
 ### **4.	Video**
 
+https://youtu.be/gr7FkmYtdks
+
 ### **5.	Conclusiones**
+
+
 
 ### **6.	Bibliografía**
 (2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 525-589). PEARSON Prentice Hall.
