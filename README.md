@@ -188,7 +188,10 @@ https://youtu.be/gr7FkmYtdks
 
 ### **5.	Conclusiones**
 
-
+* Cuando se representan a escala los valores de una gráfica por computadora, no siempre es posible colocar el cursor exactamente donde se desea (debido a la naturaleza de los programas de simulación). En consecuencia, se debe fijar el cursor tan cerca cómo se pueda y entonces se estima el valor que se está tratando de medir.
+* Se concluye que la corriente del inductor no puede cambiar de manera instantánea.
+* Entre más fuerte es el campo para una determinada corriente, más grande será la inductancia. Entonces, una bobina de muchas vueltas tendrá más inductancia que una de pocas vueltas (L es proporcional a N2) y una bobina devanada en un núcleo magnético tendrá mayor inductancia que una bobina devanada en uno no magnético.
+* Fuerza magnetomotriz (fmm) Es la causa de un campo magnético medida en ampere-vueltas. 
 
 ### **6.	Bibliografía**
 (2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 525-589). PEARSON Prentice Hall.
